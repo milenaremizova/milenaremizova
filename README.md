@@ -38,7 +38,7 @@
 
 ---
 
-## 📫 Контакты
+## Контакты
 
 - GitHub: https://github.com/milenaremizova
 - Telegram: @ywnnnm
